@@ -1,0 +1,11 @@
+Running Executable ’sourcecode.jar’ file instructions - 
+
+'sourcecode.jar' file can be found in folder '/SSA_Project_A20378201/Executable File/‘.
+
+System Requirement: Java 1.6+
+
+To run the jar file on command prompt/terminal - 
+java -jar sourcecode.jar 
+
+Once the program starts running, you have option to select one GasPump from two of them. 
+After selecting a GasPump, you must run the following operations in order to start operating the GasPump.
